@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1zgYnz3twddhjWEGnF4jI-5PTR7WLRRUL
 """
 
-!pip install transformers tensorflow streamlit
+#!pip install transformers tensorflow streamlit
 
 import streamlit as st
 from transformers import TFAutoModelForSequenceClassification, AutoTokenizer
